@@ -1,0 +1,1 @@
+The concept is to create an AR based android application using image processing and machine learning techniques, that makes a still image of Pakistani heroes, that were a part of Independence Movement of Pakistan, look like they are talking with audio generation and lip movements synced over that audio.
